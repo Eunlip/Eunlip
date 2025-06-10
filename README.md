@@ -1,8 +1,8 @@
-<h3 align="center">A passionate developer specializing in building web and mobile experiences that blend performance and aesthetics. I thrive on crafting clean UIs, and exploring the latest in tech</h3>
+<h3 align="left">A passionate developer specializing in building web and mobile experiences that blend performance and aesthetics. I thrive on crafting clean UIs, and exploring the latest in tech</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eunlip&label=Profile%20views&color=0ccf6a&style=flat" alt="eunlip" /> </p>
 
-- ⚡ Fun fact **If there’s a bug in the Matrix, I’ll probably style it before I debug it.**
+⚡ Fun fact **If there’s a bug in the Matrix, I’ll probably style it before I debug it.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
