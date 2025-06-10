@@ -4,7 +4,6 @@
 
 ⚡ Fun fact **If there’s a bug in the Matrix, I’ll probably style it before I debug it.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
